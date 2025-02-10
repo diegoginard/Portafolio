@@ -11,6 +11,6 @@
 
 ## Hecho por:
 
-###Ana García
+###Diego Gianrd
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
