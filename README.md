@@ -11,6 +11,6 @@
 
 ## Hecho por:
 
-### Diego Gianrd
+### Diego Ginard
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
